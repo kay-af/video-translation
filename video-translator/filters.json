@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Horse to zebra",
+        "modelCode": 0,
+        "model": "./models/h2z.pth"
+    },
+    {
+        "name": "Summer to winter",
+        "modelCode": 1,
+        "model": "./models/s2w.pth"
+    }
+]
