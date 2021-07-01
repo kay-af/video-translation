@@ -1,2 +1,3 @@
 video-translator/__pycache__
 .vscode
+video-translator/translation/*
